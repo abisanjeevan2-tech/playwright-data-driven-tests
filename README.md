@@ -1,2 +1,9 @@
-# playwright-data-driven-tests
-Playwright data-driven test automation framework using TypeScript, implementing Page Object Model to validate task management workflows in an Asana demo application.
+# Playwright Data-Driven Test Suite
+
+## Overview
+Data-driven Playwright automation framework using TypeScript and Page Object Model.
+
+## Run
+npm install
+npx playwright install
+npx playwright test

@@ -1,0 +1,12 @@
+{
+  "name": "playwright-asana-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "typescript": "^5.0.0"
+  }
+}
